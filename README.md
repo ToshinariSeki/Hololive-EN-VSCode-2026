@@ -14,21 +14,39 @@
  * Gawr Gura ✓
  * Mori Calliope ✓
  * Ninomae Ina'nis ✓
- * Takanashi Kiara [in development]
- * Watson Amelia [in development]
+ * Takanashi Kiara ✓
+ * Watson Amelia ✓
 
 ### Project Hope
- * IRyS [planned release]
+ * IRyS ✓
 
 ### Gen 2
- * Tsukumo Sana [planned release]
- * Ceres Fauna [planned release]
- * Ouro Kronii [planned release]
- * Nanashi Mumei [planned release]
- * Hakos Baelz [planned release]
+ * Tsukumo Sana ✓
+ * Ceres Fauna ✓
+ * Ouro Kronii ✓
+ * Nanashi Mumei ✓
+ * Hakos Baelz ✓
+
+### Gen 3 (Advent)
+ * Shiori Novella ✓
+ * Koseki Bijou ✓
+ * Nerissa Ravencroft ✓
+ * FUWAMOCO ✓
+
+### Gen 4 (Justice)
+ * Elizabeth Rose Bloodflame ✓
+ * Gigi Murin ✓
+ * Cecilia Immergreen ✓
+ * Raora Panthera ✓
+
+*All 19 themes support both Dark and Light modes.*
+
 
 *To change the theme `Cmd+k Cmd+d` on macOS or (`Ctrl+k Ctrl+d` on Windows and Linux).*
 
 ## Thanks for checking out my custom made themes. 
-These are still a work in progress and so any feedback is appreciated. My discord: Jac#0549
-Thank you to anyone who reached out and suggested improvements
+Hololive Indonesia and Hololive Japan have been planned but not in development yet. Feel free to contribute. Contact me at Discord: `3mcube`
+
+There are also plans to have now Indie VTubers like Dooby, Nimi, Saba, Shachi.
+
+Look out my github for other VTubers. Themes have been planned for Neurosama, Evil, Vedal, Cerber, Aquwa, MinikoMew, Ironmouse, Dokibird, Mint, Bao, Filian and Mau.
