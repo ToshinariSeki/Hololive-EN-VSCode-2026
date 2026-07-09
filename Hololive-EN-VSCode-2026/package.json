@@ -1,0 +1,231 @@
+{
+    "name": "hololive-en-2026",
+    "displayName": "Hololive EN VSCode 2026",
+    "description": "Dark and Light themes based on the Hololive English talents (Myth, Promise, Advent, and Justice).",
+    "version": "2.0.0",
+    "license": "MIT",
+    "icon": "hololive-icon.png",
+    "publisher": "ToshinariSeki",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ToshinariSeki/Hololive-EN-VSCode-2026"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "light",
+        "anime",
+        "vtuber",
+        "virtul youtuber",
+        "hololive",
+        "hololive english",
+        "hololive en",
+        "HoloEN",
+        "vtuber",
+        "myth",
+        "promise",
+        "council",
+        "advent",
+        "justice"
+    ],
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hololive EN: Gawr Gura",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gura.json"
+            },
+            {
+                "label": "Hololive EN: Mori Calliope",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Calli.json"
+            },
+            {
+                "label": "Hololive EN: Ninomae Ina'nis",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ina.json"
+            },
+            {
+                "label": "Hololive EN: Ouro Kronii",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kronii.json"
+            },
+            {
+                "label": "Hololive EN: Nanashi Mumei",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mumei.json"
+            },
+            {
+                "label": "Hololive EN: Ceres Fauna",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fauna.json"
+            },
+            {
+                "label": "Hololive EN: Hakos Baelz",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Bae.json"
+            },
+            {
+                "label": "Hololive EN: Takanashi Kiara",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kiara.json"
+            },
+            {
+                "label": "Hololive EN: Amelia Watson",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ame.json"
+            },
+            {
+                "label": "Hololive EN: IRyS",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Irys.json"
+            },
+            {
+                "label": "Hololive EN: Tsukumo Sana",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sana.json"
+            },
+            {
+                "label": "Hololive EN: Shiori Novella",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Shiori.json"
+            },
+            {
+                "label": "Hololive EN: Koseki Bijou",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Bijou.json"
+            },
+            {
+                "label": "Hololive EN: Nerissa Ravencroft",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nerissa.json"
+            },
+            {
+                "label": "Hololive EN: FUWAMOCO",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fuwamoco.json"
+            },
+            {
+                "label": "Hololive EN: Elizabeth Rose Bloodflame",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Elizabeth.json"
+            },
+            {
+                "label": "Hololive EN: Gigi Murin",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gigi.json"
+            },
+            {
+                "label": "Hololive EN: Cecilia Immergreen",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cecilia.json"
+            },
+            {
+                "label": "Hololive EN: Raora Panthera",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Raora.json"
+            },
+            {
+                "label": "Hololive EN: Gawr Gura (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Gura-Light.json"
+            },
+            {
+                "label": "Hololive EN: Mori Calliope (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Calli-Light.json"
+            },
+            {
+                "label": "Hololive EN: Ninomae Ina'nis (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Ina-Light.json"
+            },
+            {
+                "label": "Hololive EN: Ouro Kronii (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Kronii-Light.json"
+            },
+            {
+                "label": "Hololive EN: Nanashi Mumei (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Mumei-Light.json"
+            },
+            {
+                "label": "Hololive EN: Ceres Fauna (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Fauna-Light.json"
+            },
+            {
+                "label": "Hololive EN: Hakos Baelz (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Bae-Light.json"
+            },
+            {
+                "label": "Hololive EN: Takanashi Kiara (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Kiara-Light.json"
+            },
+            {
+                "label": "Hololive EN: Amelia Watson (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Ame-Light.json"
+            },
+            {
+                "label": "Hololive EN: IRyS (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Irys-Light.json"
+            },
+            {
+                "label": "Hololive EN: Tsukumo Sana (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Sana-Light.json"
+            },
+            {
+                "label": "Hololive EN: Shiori Novella (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Shiori-Light.json"
+            },
+            {
+                "label": "Hololive EN: Koseki Bijou (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Bijou-Light.json"
+            },
+            {
+                "label": "Hololive EN: Nerissa Ravencroft (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Nerissa-Light.json"
+            },
+            {
+                "label": "Hololive EN: FUWAMOCO (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Fuwamoco-Light.json"
+            },
+            {
+                "label": "Hololive EN: Elizabeth Rose Bloodflame (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Elizabeth-Light.json"
+            },
+            {
+                "label": "Hololive EN: Gigi Murin (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Gigi-Light.json"
+            },
+            {
+                "label": "Hololive EN: Cecilia Immergreen (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Cecilia-Light.json"
+            },
+            {
+                "label": "Hololive EN: Raora Panthera (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Raora-Light.json"
+            }
+        ]
+    }
+}
